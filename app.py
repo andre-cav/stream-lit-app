@@ -20,10 +20,10 @@ st.header("Meus Projetos")
 
 # Lista de projetos com nome e link
 projetos = [
-    {"nome": "Projeto de Análise de Dados", "link": "https://link_para_seu_projeto_1.com"},
-    {"nome": "Aplicação Web com Streamlit", "link": "https://link_para_seu_projeto_2.com"},
-    {"nome": "Repositório de Machine Learning", "link": "https://link_para_seu_projeto_3.com"},
-    {"nome": "Outro Projeto Interessante", "link": "https://link_para_seu_projeto_4.com"},
+    {"nome": "Análise de clientes com SQL e Python", "link": "https://github.com/andre-cav/Customer-Analytics-with-SQL-and-Python"},
+    {"nome": "Análise de ações com Python", "link": "https://github.com/andre-cav/Python-For-Finance"},
+    {"nome": "Diversas análises na área do futebol", "link": "https://github.com/andre-cav/Python-For-Soccer"},
+    {"nome": "Análise usando LGBM model", "link": "https://github.com/andre-cav/Credit-Risk-with-Python/blob/main/Heart_Attack_Prediction.ipynb"}
 ]
 
 # Exibição dos projetos como links em Markdown
